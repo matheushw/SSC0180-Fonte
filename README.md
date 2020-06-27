@@ -29,4 +29,4 @@
 # Links
 - Fonte no Falstad **[aqui](http://tinyurl.com/ycol5qhn)** (Obs: no video o capacitor é de 1mf, porem corrigimos para 470uf).
 - Video de explicação do projeto **[aqui](https://drive.google.com/file/d/12O8wWkuYkDU50aEyllq8cBlEbAP9AQjk/view?usp=sharing)**
-- Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/14DSw6FDimgsQ2pkxZI3QQSVowkRl3ReV?usp=sharing)***
+- Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/14DSw6FDimgsQ2pkxZI3QQSVowkRl3ReV?usp=sharing)**
