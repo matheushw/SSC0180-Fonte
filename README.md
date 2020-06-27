@@ -1,6 +1,6 @@
 # SCC0180 - Eletrônica para a Computação: Fonte 12 ~ 3V
 
-## Alunos:
+### Alunos:
 - Alexandre Lima Palles Rocha - 11797038
 - Matheus Barcellos de Castro Cunha - 11208238
 
