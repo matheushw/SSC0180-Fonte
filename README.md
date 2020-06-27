@@ -6,10 +6,10 @@
 - Alexandre Lima Palles Rocha - 11797038
 - Matheus Barcellos de Castro Cunha - 11208238
 
--------------
+
 ## Foto do circuito no Falstad:
 ## ![Falstad](Falstad.png)
--------------
+
 
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
 |:---------------:|:---------------:|:-------------:|:---------------:|
