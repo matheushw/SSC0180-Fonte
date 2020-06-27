@@ -1,8 +1,8 @@
 # SCC0180 - Eletrônica para a Computação: Fonte 12 ~ 3V
 
 ### Alunos:
-- Alexandre Lima Palles Rocha - 11797038
-- Matheus Barcellos de Castro Cunha - 11208238
+- Alexandre Lima Palles Rocha - 11797038 - [Github](https://github.com/Alexandre-Palles)
+- Matheus Barcellos de Castro Cunha - 11208238 - [Github](https://github.com/matheushw)
 
 
 ### Foto do circuito no Falstad:
