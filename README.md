@@ -8,8 +8,11 @@
 ### Foto do circuito no Falstad:
 ### ![Falstad](Falstad.png)
 
-### Esquematico no EAGLE:
-### ![EAGLE](EAGLE.jpeg)
+### Esquemático da fonte no EAGLE:
+### ![EAGLE_FONTE](EAGLE_FONTE.jpeg)
+
+### Esquemático da PCB no EAGLE:
+### ![EAGLE_PCB](EAGLE_PCB.jpeg)
 
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
 |:---------------:|:---------------:|:-------------:|:---------------:|
