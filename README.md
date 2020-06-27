@@ -1,6 +1,7 @@
 # SSC0180 Fonte 12 ~ 3V
 
 ## **SCC0180 - Eletrônica para a Computação**
+-------
 
 ## Alunos:
 - Alexandre Lima Palles Rocha - 11797038
