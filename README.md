@@ -26,5 +26,7 @@
 | 1x |[Transistor](https://www.robocore.net/loja/itens-eletronicos/transistor-npn-tip122?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgLH4DNOuhtfnZSzVS-3N3OBPhqspcy9cVkdt3Z7M0HruGtxnt3bOhQaAqJKEALw_wcB) | NPN TIP122 | R$1,75 |
 |Custo Total || | **R$80,39** |
 
-### Fonte no Falstad **[aqui](http://tinyurl.com/ycol5qhn)** (Obs: no video o capacitor é de 1mf, porem corrigimos para 470uf).
-### Video de explicação do projeto **[aqui](https://drive.google.com/file/d/12O8wWkuYkDU50aEyllq8cBlEbAP9AQjk/view?usp=sharing)**
+### Links
+#### Fonte no Falstad **[aqui](http://tinyurl.com/ycol5qhn)** (Obs: no video o capacitor é de 1mf, porem corrigimos para 470uf).
+#### Video de explicação do projeto **[aqui](https://drive.google.com/file/d/12O8wWkuYkDU50aEyllq8cBlEbAP9AQjk/view?usp=sharing)**
+#### Projeto no EAGLE **[aqui]**(https://drive.google.com/drive/folders/14DSw6FDimgsQ2pkxZI3QQSVowkRl3ReV?usp=sharing)
