@@ -1,14 +1,12 @@
-# SSC0180 Fonte 12 ~ 3V
-
-## **SCC0180 - Eletrônica para a Computação**
+# SCC0180 - Eletrônica para a Computação: Fonte 12 ~ 3V
 
 ## Alunos:
 - Alexandre Lima Palles Rocha - 11797038
 - Matheus Barcellos de Castro Cunha - 11208238
 
 
-## Foto do circuito no Falstad:
-## ![Falstad](Falstad.png)
+### Foto do circuito no Falstad:
+### ![Falstad](Falstad.png)
 
 
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
@@ -23,5 +21,5 @@
 | 1x |[Transistor](https://www.robocore.net/loja/itens-eletronicos/transistor-npn-tip122?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgLH4DNOuhtfnZSzVS-3N3OBPhqspcy9cVkdt3Z7M0HruGtxnt3bOhQaAqJKEALw_wcB) | NPN TIP122 | R$1,75 |
 |Custo Total || | **R$82,37** |
 
-## Fonte no Falstad **[aqui](http://tinyurl.com/ycol5qhn)**
-## Video de explicação do projeto **[aqui](https://drive.google.com/file/d/12O8wWkuYkDU50aEyllq8cBlEbAP9AQjk/view?usp=sharing)**
+### Fonte no Falstad **[aqui](http://tinyurl.com/ycol5qhn)**
+### Video de explicação do projeto **[aqui](https://drive.google.com/file/d/12O8wWkuYkDU50aEyllq8cBlEbAP9AQjk/view?usp=sharing)**
