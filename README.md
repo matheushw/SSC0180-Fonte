@@ -9,7 +9,7 @@
 ### ![Falstad](Falstad.png)
 
 ### Esquematico no EAGLE:
-### ![EAGLE](EAGLE.png)
+### ![EAGLE](EAGLE.jpeg)
 
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
 |:---------------:|:---------------:|:-------------:|:---------------:|
