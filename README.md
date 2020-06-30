@@ -31,4 +31,4 @@
 # Links
 - Fonte no Falstad **[aqui](http://tinyurl.com/y8rnal6y)**
 - Video de explicação do projeto **[aqui]()**
-- Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/17g_FNWTx2oCK9mUkApajUb2hrP8GtiF6?usp=sharing)**
+- Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/1j5e8xloiBMldnsLnyuZVLP4RS490jOJd?usp=sharing)**
