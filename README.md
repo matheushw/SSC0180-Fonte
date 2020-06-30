@@ -29,6 +29,6 @@
 |Custo Total || | **R$80,39** |
 
 # Links
-- Fonte no Falstad **[aqui](http://tinyurl.com/y9wkywnb)**
+- Fonte no Falstad **[aqui](http://tinyurl.com/y8rnal6y)**
 - Video de explicação do projeto **[aqui]()**
 - Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/14DSw6FDimgsQ2pkxZI3QQSVowkRl3ReV?usp=sharing)**
