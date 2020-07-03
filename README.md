@@ -38,4 +38,4 @@ http://tinyurl.com/ya4yqcnk
 http://tinyurl.com/y976bu3u -->
 - Fonte no Falstad **[aqui](http://tinyurl.com/yco9eej4)**
 - Video de explicação do projeto **[aqui]()**
-- Projeto no EAGLE **[aqui]()**
+- Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/1YTRGqO8lpVc-zfUZYenR_ZUeqplz_12S?usp=sharing)**
