@@ -6,7 +6,7 @@
 
 
 ### Foto do circuito no Falstad:
-### ![Falstad](Falstad.png)
+### ![Falstad](Falstad2.png)
 
 ### Esquemático da fonte no EAGLE:
 ### ![EAGLE_FONTE](EAGLE_FONTE.png)
