@@ -1,4 +1,4 @@
-# SCC0180 - Eletrônica para a Computação: Fonte 3 ~ 12V
+# SCC0180 - Eletrônica para Computação: Fonte 3 ~ 12V
 
 ### Alunos:
 - Alexandre Lima Palles Rocha - 11797038 - [Github](https://github.com/Alexandre-Palles)
