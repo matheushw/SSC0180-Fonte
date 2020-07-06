@@ -6,7 +6,7 @@
 
 
 ### Foto do circuito no Falstad:
-### ![Falstad](Falstad2.png)
+### ![Falstad](Falstad.png)
 
 ### Esquemático da fonte no EAGLE:
 ### ![EAGLE_FONTE](EAGLE_FONTE.png)
@@ -21,7 +21,6 @@
 # Componentes
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
 |:---------------:|:---------------:|:-------------:|:---------------:|
-| 1x |[Switch](https://produto.mercadolivre.com.br/MLB-1300399738-boto-chave-gangorra-mini-interruptor-liga-desliga-on-off-10x15mm-kcd13-101-3a-250v-arduino-_JM?variation=42249952649&quantity=1#reco_item_pos=0&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=3b5ba658-e897-4edb-bdb5-659b62db67cc) | 250V e 3A | R$7,99 |
 | 1x |[Transformador](https://www.americanas.com.br/produto/213215611/transformador-entrada-110-220-saida-0-15v-500ma?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_pla_casaeconst_geral_gmv&gclid=CjwKCAjwrvv3BRAJEiwAhwOdMyr-fa3ot-LV1x7yE8mnru6MTkeDwGg72wlTrGV24NYcF5T_Roa2sBoCFkIQAvD_BwE&i=5d712b2d49f937f6250d8225&o=5d6e96436c28a3cb509126ac&opn=YSMESP&sellerid=10428528000110) | 15V e 500mA | R$28,17 |
 | 4x |[Diodo](https://www.autoeletronica.net/produtos/diodo-retificador-1n5404) | 400V e 3A | R$1,52 |
 | 10x |[Resistor](https://www.magazineluiza.com.br/20-resistor-200-ohm-1-4w-casa-da-robotica/p/jahg4d02bd/rc/rcnm/?&1=1&seller_id=casadarobotica&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=54222&gclid=CjwKCAjwrvv3BRAJEiwAhwOdM0nr_gGCuMlmJNNXnZJc7zP40bANqfRbu4sNi5f4ybwsfB4tmBOP2RoCRtsQAvD_BwE) | 200Ω | R$2,99 |
@@ -34,13 +33,13 @@
 | 1x |[Transistor](https://www.robocore.net/loja/itens-eletronicos/transistor-npn-tip122?gclid=CjwKCAjwrvv3BRAJEiwAhwOdMyDcuF7SIPu1UlRnf07BEPSWpM1NQERHKbEpg6RRG2fzJh7GCOJraxoC58sQAvD_BwE) | TIP122 | R$1,75 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-vermelho) | Vermelho | R$0,25 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-azul) | Azul | R$0,35 |
-|Custo Total || | **R$59,25** |
+|Custo Total || | **R$51,26** |
 
 # Links
 <!-- - Fonte no Falstad **[aqui](http://tinyurl.com/y7b4mfw5)**
 - Fonte no Falstad **[aqui](http://tinyurl.com/ya3w26kn)**
 http://tinyurl.com/ya4yqcnk
 http://tinyurl.com/y976bu3u -->
-- Fonte no Falstad **[aqui](http://tinyurl.com/yco9eej4)**
+- Fonte no Falstad **[aqui](http://tinyurl.com/ycjoho2u)**
 - Video de explicação do projeto **[aqui]()**
 - Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/196MoCWf7vRKy96kijfpoS3ow3kDuRdcu?usp=sharing)**
