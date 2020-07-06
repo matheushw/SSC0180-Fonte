@@ -15,8 +15,8 @@
 ### ![EAGLE_PCB](EAGLE_PCB.png)
 
 ### Parte física:
-### ![FonteFisica](FonteFisica.png)
-### ![FonteFisica2](FonteFisica2.png)
+### ![FonteFisica](FonteFisica.jpg)
+### ![FonteFisica2](FonteFisica2.jpg)
 
 # Componentes
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
