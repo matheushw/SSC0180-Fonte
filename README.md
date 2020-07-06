@@ -14,6 +14,9 @@
 ### Esquemático da PCB no EAGLE:
 ### ![EAGLE_PCB](EAGLE_PCB.png)
 
+### Parte física:
+### ![FonteFisica](FonteFisica.png)
+### ![FonteFisica2](FonteFisica2.png)
 
 # Componentes
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
