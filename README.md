@@ -22,7 +22,7 @@
 | **Quantidade** | **Componente** | **Especificações** | **Valor** |
 |:---------------:|:---------------:|:-------------:|:---------------:|
 | 1x |[Transformador](https://www.americanas.com.br/produto/213215611/transformador-entrada-110-220-saida-0-15v-500ma?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_pla_casaeconst_geral_gmv&gclid=CjwKCAjwrvv3BRAJEiwAhwOdMyr-fa3ot-LV1x7yE8mnru6MTkeDwGg72wlTrGV24NYcF5T_Roa2sBoCFkIQAvD_BwE&i=5d712b2d49f937f6250d8225&o=5d6e96436c28a3cb509126ac&opn=YSMESP&sellerid=10428528000110) | 15V e 500mA | R$28,17 |
-| 4x |[Diodo](https://www.autoeletronica.net/produtos/diodo-retificador-1n5404) | 400V e 3A | R$1,52 |
+| 1x |[Ponte retificadora](https://www.autocorerobotica.com.br/2w10-ponte-retificadora-1000v-2a) | 400V e 3A | R$1,30 |
 | 10x |[Resistor](https://www.magazineluiza.com.br/20-resistor-200-ohm-1-4w-casa-da-robotica/p/jahg4d02bd/rc/rcnm/?&1=1&seller_id=casadarobotica&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=54222&gclid=CjwKCAjwrvv3BRAJEiwAhwOdM0nr_gGCuMlmJNNXnZJc7zP40bANqfRbu4sNi5f4ybwsfB4tmBOP2RoCRtsQAvD_BwE) | 200Ω | R$2,99 |
 | 10x |[Resistor](https://produto.mercadolivre.com.br/MLB-1081590858-resistor-330-ohm-14w-x10-unidades-_JM?matt_tool=79246729&matt_word&gclid=CjwKCAjwrvv3BRAJEiwAhwOdMxfc-Wb-Vj7uST-Bl0sPwud6hYj0OiS_j8SGzs_ZKOX0M5Ny0XoHoBoCj-QQAvD_BwE&quantity=1) | 330Ω | R$6,99 |
 | 10x | Resistor | 820Ω | R$5,00 |
@@ -33,7 +33,7 @@
 | 1x |[Transistor](https://www.robocore.net/loja/itens-eletronicos/transistor-npn-tip122?gclid=CjwKCAjwrvv3BRAJEiwAhwOdMyDcuF7SIPu1UlRnf07BEPSWpM1NQERHKbEpg6RRG2fzJh7GCOJraxoC58sQAvD_BwE) | TIP122 | R$1,75 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-vermelho) | Vermelho | R$0,25 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-azul) | Azul | R$0,35 |
-|Custo Total || | **R$51,26** |
+|Custo Total || | **R$51,04** |
 
 # Links
 <!-- - Fonte no Falstad **[aqui](http://tinyurl.com/y7b4mfw5)**
