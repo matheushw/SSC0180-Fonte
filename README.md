@@ -15,8 +15,8 @@
 ### ![EAGLE_PCB](EAGLE_PCB.png)
 
 ## Primeira versão da fonte física (muito feia ;-;)
-### ![Fonte1](Fonte1.jpg)
-### ![Fonte1_2](Fonte1_2.jpg)
+### ![Fonte1](FonteV1.jpg)
+### ![Fonte1_2](FonteV1_2.jpg)
 
 ## Segunda versão da fonte física (bonitinha :O)
 ### ![FonteFisica](FonteFisica.jpg)
