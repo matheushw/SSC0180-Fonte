@@ -30,10 +30,10 @@
 | 1x |[Capacitor](https://www.eletrogate.com/capacitor-eletrolitico-470uf-x-50v?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ2Kgakz5yJfnDUHAmi37V7dUP6w2IKSyBl1VksmPlQwvk_MMea2ZgaAmnKEALw_wcB) | 470uF e 50V | R$0,90 |
 | 1x |[Diodo Zener](https://www.americanas.com.br/produto/1397103736?opn=YSMESP&sellerid=4145166000157&epar=bp_pl_00_go_am_todas_geral_gmv&WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&i=5dd8ae5049f937f6254fab94&o=5df60079f8e95eac3dac6177&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgIL562GLJVjPZFYEWPE8kXANQGuBsye2JKJisaPoG6w3PX7TJy3cGIaAltrEALw_wcB) | 13V e 1W | R$0,60 |
 | 1x |[Potenciômetro](https://www.magazineluiza.com.br/potenciometro-5k-linear-estriado-15mm-wh148-b5k-l15-ncl/p/cb244eacd6/cj/ptct/?&1=1&seller_id=casadarobotica&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=54222&gclid=CjwKCAjwxev3BRBBEiwAiB_PWCzLCRQFZbqyxHrqGAP6q1-wtv8JZTKYs0IlJbpythvAmF4CQ-itcRoCl3wQAvD_BwE) | 5kΩ | R$1,99 |
-| 1x |[Transistor](https://www.robocore.net/loja/itens-eletronicos/transistor-npn-tip122?gclid=CjwKCAjwrvv3BRAJEiwAhwOdMyDcuF7SIPu1UlRnf07BEPSWpM1NQERHKbEpg6RRG2fzJh7GCOJraxoC58sQAvD_BwE) | TIP122 | R$1,75 |
+| 1x |[Transistor](https://www.autocorerobotica.com.br/bd139-transistor-npn) | BD139 | R$0,90 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-vermelho) | Vermelho | R$0,25 |
 | 1x |[LED](https://www.autocorerobotica.com.br/led-alto-brilho-5mm-azul) | Azul | R$0,35 |
-|Custo Total || | **R$51,04** |
+|Custo Total || | **R$50,19** |
 
 # Links
 <!-- - Fonte no Falstad **[aqui](http://tinyurl.com/y7b4mfw5)**
