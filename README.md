@@ -14,7 +14,11 @@
 ### Esquemático da PCB no EAGLE:
 ### ![EAGLE_PCB](EAGLE_PCB.png)
 
-### Parte física:
+## Primeira versão da fonte física (muita feia ;-;):
+### ![Fonte1](Fonte1.jpg)
+### ![Fonte1_2](Fonte1_2.jpg)
+
+## Segunda versão da fonte física:
 ### ![FonteFisica](FonteFisica.jpg)
 ### ![FonteFisica2](FonteFisica2.jpg)
 
@@ -41,5 +45,6 @@
 http://tinyurl.com/ya4yqcnk
 http://tinyurl.com/y976bu3u -->
 - Fonte no Falstad **[aqui](http://tinyurl.com/ycjoho2u)**
-- Video de explicação do projeto **[aqui]()**
+- Video de explicação do projeto **[aqui](https://drive.google.com/file/d/1_D_H_kA5hYnvBSTEEu_YyFMoc-nKRuXa/view?usp=sharing)**
+- Video da fonte funcionando com um Arduino **[aqui](https://drive.google.com/file/d/1QRTGWC_bsXPIkAl1pCN-YBpX24cJFS9-/view?usp=sharing)**
 - Projeto no EAGLE **[aqui](https://drive.google.com/drive/folders/196MoCWf7vRKy96kijfpoS3ow3kDuRdcu?usp=sharing)**
