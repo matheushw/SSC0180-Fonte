@@ -14,11 +14,11 @@
 ### Esquemático da PCB no EAGLE:
 ### ![EAGLE_PCB](EAGLE_PCB.png)
 
-## Primeira versão da fonte física (muita feia ;-;):
+## Primeira versão da fonte física (muito feia ;-;):
 ### ![Fonte1](Fonte1.jpg)
 ### ![Fonte1_2](Fonte1_2.jpg)
 
-## Segunda versão da fonte física:
+## Segunda versão da fonte física (bonitinha :O):
 ### ![FonteFisica](FonteFisica.jpg)
 ### ![FonteFisica2](FonteFisica2.jpg)
 
